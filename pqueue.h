@@ -1,4 +1,3 @@
-// CMSC 341 - Fall 2023 - Project 3
 #ifndef PQUEUE_H
 #define PQUEUE_H
 
