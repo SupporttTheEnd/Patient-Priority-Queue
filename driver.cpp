@@ -1,5 +1,3 @@
-// CMSC 341 - Fall 2023 - Project 3
-
 #include "pqueue.h"
 #include <math.h>
 #include <algorithm>
