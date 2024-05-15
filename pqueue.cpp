@@ -1,4 +1,3 @@
-// CMSC 341 - Fall 2023 - Project 3
 #include "pqueue.h"
 PQueue::PQueue(prifn_t priFn, HEAPTYPE heapType, STRUCTURE structure) {
     m_heap = nullptr;
